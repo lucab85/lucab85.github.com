@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground.</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2017 17:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New start</title>
+      <link>/blog/new-start/</link>
+      <pubDate>Thu, 25 May 2017 17:30:00 +0200</pubDate>
+      
+      <guid>/blog/new-start/</guid>
+      <description>My previous web page design was too outdated so I want to start with newest technology. Welcome to my brand new website powered by Hugo!</description>
+    </item>
+    
+  </channel>
+</rss>
