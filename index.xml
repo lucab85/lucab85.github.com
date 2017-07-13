@@ -6,10 +6,19 @@
     <description>Recent content on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 16:33:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WebFundamentals contributions</title>
+      <link>/blog/webfundamentals-contributions/</link>
+      <pubDate>Thu, 13 Jul 2017 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/webfundamentals-contributions/</guid>
+      <description>In theese few months I&amp;rsquo;ve started my contribution to Google WebFundamentals project as contributor and Italian translator. More about my pull requests. See me soon on the contributors page.</description>
+    </item>
     
     <item>
       <title>about</title>
