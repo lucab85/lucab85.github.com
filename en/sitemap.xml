@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/kubernetes-contributions/</loc>
+    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/webfundamentals-contributions/</loc>
     <lastmod>2017-07-13T12:00:00+02:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/blog/new-start/</loc>
+    <loc>/blog/new-site/</loc>
     <lastmod>2017-05-25T17:30:00+02:00</lastmod>
   </url>
   
@@ -34,7 +39,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2017-07-13T12:00:00+02:00</lastmod>
+    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +60,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-07-13T12:00:00+02:00</lastmod>
+    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
