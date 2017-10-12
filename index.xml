@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</title>
-    <link>http://mrevolution.eu/</link>
+    <link>//mrevolution.eu/</link>
     <description>Recent content on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Oct 2017 09:39:00 +0200</lastBuildDate>
     
-	<atom:link href="http://mrevolution.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//mrevolution.eu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>http://mrevolution.eu/about/</link>
+      <link>//mrevolution.eu/about/</link>
       <pubDate>Thu, 12 Oct 2017 09:39:00 +0200</pubDate>
       
-      <guid>http://mrevolution.eu/about/</guid>
+      <guid>//mrevolution.eu/about/</guid>
       <description>I&amp;rsquo;ve been 10 years in IT sector with technical background and service in mind.
 My strength are: GNU/Linux, Cloud Computing and Internet of Things.
 I like to explore the newest technology innovations like Deep Learning and BigData.</description>
@@ -24,46 +24,46 @@ I like to explore the newest technology innovations like Deep Learning and BigDa
     
     <item>
       <title>Google Web Designer Certification</title>
-      <link>http://mrevolution.eu/blog/google-web-designer-certification/</link>
+      <link>//mrevolution.eu/blog/google-web-designer-certification/</link>
       <pubDate>Thu, 12 Oct 2017 09:30:00 +0200</pubDate>
       
-      <guid>http://mrevolution.eu/blog/google-web-designer-certification/</guid>
+      <guid>//mrevolution.eu/blog/google-web-designer-certification/</guid>
       <description>On October, the 9th I&amp;rsquo;ve passed the Google Web Designer Exam. See my Google Web Designer certificate.</description>
     </item>
     
     <item>
       <title>Kubernetes contributions</title>
-      <link>http://mrevolution.eu/blog/kubernetes-contributions/</link>
+      <link>//mrevolution.eu/blog/kubernetes-contributions/</link>
       <pubDate>Mon, 28 Aug 2017 14:06:00 +0200</pubDate>
       
-      <guid>http://mrevolution.eu/blog/kubernetes-contributions/</guid>
+      <guid>//mrevolution.eu/blog/kubernetes-contributions/</guid>
       <description>I&amp;rsquo;ve been start my contribution to Kubernetes project as contributor and Italian translator. My latest pull request was accepted to be part of the next release 1.8.0.</description>
     </item>
     
     <item>
       <title>WebFundamentals contributions</title>
-      <link>http://mrevolution.eu/blog/webfundamentals-contributions/</link>
+      <link>//mrevolution.eu/blog/webfundamentals-contributions/</link>
       <pubDate>Thu, 13 Jul 2017 12:00:00 +0200</pubDate>
       
-      <guid>http://mrevolution.eu/blog/webfundamentals-contributions/</guid>
+      <guid>//mrevolution.eu/blog/webfundamentals-contributions/</guid>
       <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian translator. More about my pull requests. I&amp;rsquo;m on the contributors page.</description>
     </item>
     
     <item>
       <title>New site</title>
-      <link>http://mrevolution.eu/blog/new-site/</link>
+      <link>//mrevolution.eu/blog/new-site/</link>
       <pubDate>Thu, 25 May 2017 17:30:00 +0200</pubDate>
       
-      <guid>http://mrevolution.eu/blog/new-site/</guid>
+      <guid>//mrevolution.eu/blog/new-site/</guid>
       <description>My previous web page design was too outdated so I want to start with newest technology. Welcome to my brand new website powered by Hugo!</description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>http://mrevolution.eu/contact/</link>
+      <link>//mrevolution.eu/contact/</link>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       
-      <guid>http://mrevolution.eu/contact/</guid>
+      <guid>//mrevolution.eu/contact/</guid>
       <description></description>
     </item>
     

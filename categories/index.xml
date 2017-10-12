@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</title>
-    <link>http://mrevolution.eu/categories/</link>
+    <link>//mrevolution.eu/categories/</link>
     <description>Recent content in Categories on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://mrevolution.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//mrevolution.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

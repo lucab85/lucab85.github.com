@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mrevolution.eu/about/</loc>
+    <loc>//mrevolution.eu/about/</loc>
     <lastmod>2017-10-12T09:39:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://mrevolution.eu/it/about/"
+                href="//mrevolution.eu/it/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mrevolution.eu/about/"
+                href="//mrevolution.eu/about/"
                 />
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/blog/google-web-designer-certification/</loc>
+    <loc>//mrevolution.eu/blog/google-web-designer-certification/</loc>
     <lastmod>2017-10-12T09:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/blog/kubernetes-contributions/</loc>
+    <loc>//mrevolution.eu/blog/kubernetes-contributions/</loc>
     <lastmod>2017-08-28T14:06:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/blog/webfundamentals-contributions/</loc>
+    <loc>//mrevolution.eu/blog/webfundamentals-contributions/</loc>
     <lastmod>2017-07-13T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/blog/new-site/</loc>
+    <loc>//mrevolution.eu/blog/new-site/</loc>
     <lastmod>2017-05-25T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/contact/</loc>
+    <loc>//mrevolution.eu/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/blog/</loc>
+    <loc>//mrevolution.eu/blog/</loc>
     <lastmod>2017-10-12T09:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/categories/</loc>
+    <loc>//mrevolution.eu/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://mrevolution.eu/it/categories/"
+                href="//mrevolution.eu/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mrevolution.eu/categories/"
+                href="//mrevolution.eu/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/</loc>
+    <loc>//mrevolution.eu/</loc>
     <lastmod>2017-10-12T09:39:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://mrevolution.eu/it/"
+                href="//mrevolution.eu/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mrevolution.eu/"
+                href="//mrevolution.eu/"
                 />
   </url>
   
   <url>
-    <loc>http://mrevolution.eu/tags/</loc>
+    <loc>//mrevolution.eu/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://mrevolution.eu/it/tags/"
+                href="//mrevolution.eu/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mrevolution.eu/tags/"
+                href="//mrevolution.eu/tags/"
                 />
   </url>
   
