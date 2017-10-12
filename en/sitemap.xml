@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://mrevolution.eu/about/</loc>
     <lastmod>2017-10-12T09:39:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -18,38 +18,38 @@
   </url>
   
   <url>
-    <loc>/blog/google-web-designer-certification/</loc>
+    <loc>https://mrevolution.eu/blog/google-web-designer-certification/</loc>
     <lastmod>2017-10-12T09:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/kubernetes-contributions/</loc>
+    <loc>https://mrevolution.eu/blog/kubernetes-contributions/</loc>
     <lastmod>2017-08-28T14:06:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/webfundamentals-contributions/</loc>
+    <loc>https://mrevolution.eu/blog/webfundamentals-contributions/</loc>
     <lastmod>2017-07-13T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/new-site/</loc>
+    <loc>https://mrevolution.eu/blog/new-site/</loc>
     <lastmod>2017-05-25T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://mrevolution.eu/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://mrevolution.eu/blog/</loc>
     <lastmod>2017-10-12T09:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://mrevolution.eu/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -64,7 +64,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://mrevolution.eu/</loc>
     <lastmod>2017-10-12T09:39:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -80,7 +80,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://mrevolution.eu/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
