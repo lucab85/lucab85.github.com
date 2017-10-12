@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/kubernetes-contributions/</loc>
-    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/webfundamentals-contributions/</loc>
-    <lastmod>2017-07-13T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
-    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <lastmod>2017-10-12T09:39:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -25,6 +15,21 @@
                 hreflang="en"
                 href="/about/"
                 />
+  </url>
+  
+  <url>
+    <loc>/blog/google-web-designer-certification/</loc>
+    <lastmod>2017-10-12T09:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/kubernetes-contributions/</loc>
+    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/webfundamentals-contributions/</loc>
+    <lastmod>2017-07-13T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
+    <lastmod>2017-10-12T09:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +65,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-08-28T14:06:00+02:00</lastmod>
+    <lastmod>2017-10-12T09:39:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
