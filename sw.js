@@ -20,35 +20,27 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "4834a801c8140b3233964b81a1d1f9bc"
+    "revision": "e812190276c35e76ab97d6254d69c5c6"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
-    "revision": "2d5bd4da9934be72e2d4e49d4e2b6e5f"
+    "revision": "b4d4081e6d889f13a58a300b6b0418f5"
   },
   {
     "url": "blog/index.html",
-    "revision": "8fb107b3ec95a9fc700a5da7dcf5c330"
+    "revision": "9f14152bee86689d9b758307182b776f"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "b9df9cb24d6a42c46ca2a01551274911"
+    "revision": "08d4e6167995e48baf88b149e8e84094"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "ca3b4f79acc27cac0a62cb740b153cf7"
-  },
-  {
-    "url": "blog/new-start/index.html",
-    "revision": "d568465cd31d5daa8a88bdc0617e1208"
+    "revision": "30559097b2ed25b6d25f715ddecf11cc"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
-    "revision": "33c5a47b85e8bd792b6027097a6a10aa"
-  },
-  {
-    "url": "css/candid.css",
-    "revision": "72b69345c61c7deb3fa336634030835e"
+    "revision": "6e299d2cf22504f2c059057415170472"
   },
   {
     "url": "css/dark-style.css",
@@ -76,15 +68,15 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a69e9deb3132e6866faad1d23e3d5f7b"
+    "revision": "80b540a3b5e731e6eb82ee54f2d3a87f"
   },
   {
     "url": "it/404.html",
-    "revision": "2259d61becb992f5ba5bf9acfe89a245"
+    "revision": "58fb22e2f0a7c262656c064c73022deb"
   },
   {
     "url": "it/index.html",
-    "revision": "7fc966d2b376d663d60389a1d153339c"
+    "revision": "d97b86d12603bd2b281eba234f80c680"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
