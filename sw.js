@@ -20,27 +20,27 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "8f71edd8ebb56c13a2bbd24c9cce0f8d"
+    "revision": "d711b50422f41b4af322f3807d4fb638"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
-    "revision": "3bb7166f6df8013d69ff52b0f757f0e5"
+    "revision": "ad4583e08955da7be048c361929ab7a7"
   },
   {
     "url": "blog/index.html",
-    "revision": "25cc51c1c104fc2e40327cad43e9163a"
+    "revision": "cc92e6cdcbc98a4290d5e6861f07eb26"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "915122721e9653dacbd6f828dbf9f901"
+    "revision": "57698ee2cf0c82880fc9b5a0257f2504"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "4101d7fffc18e37256881372c2e15570"
+    "revision": "a3c3b274b4fface36efe77c8219bd01f"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
-    "revision": "b776c82c1aad21aa722b38d8d779d3e8"
+    "revision": "a53ad0043e6b1d139803cf8be935f9a5"
   },
   {
     "url": "css/dark-style.css",
@@ -68,15 +68,15 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b373e8312eac01e59ad4a871191c0b58"
+    "revision": "e33f7dbe5844eaacdf4b2dd224112db9"
   },
   {
     "url": "it/404.html",
-    "revision": "02830809f6a516cb94b8e623ff156fb2"
+    "revision": "df1b6fa9702ed5d1006c75dd9d4910b3"
   },
   {
     "url": "it/index.html",
-    "revision": "b4f61aa8bdb56895a9922dcfe25648bf"
+    "revision": "bef4c30ce4f028f5c2984c2adcb63da3"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
@@ -92,9 +92,7 @@ const fileManifest = [
   }
 ];
 
-const workboxSW = new self.WorkboxSW({
-  "directoryIndex": "index.html"
-});
+const workboxSW = new self.WorkboxSW();
 workboxSW.precache(fileManifest);
 workboxSW.router.registerRoute(/.(jpg|ico)$/, workboxSW.strategies.networkFirst({
   "cacheName": "image-cache",
