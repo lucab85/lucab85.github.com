@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>//mrevolution.eu/it/about/</loc>
+    <loc>https://mrevolution.eu/it/about/</loc>
     <lastmod>2017-06-19T16:33:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//mrevolution.eu/about/"
+                href="https://mrevolution.eu/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//mrevolution.eu/it/about/"
+                href="https://mrevolution.eu/it/about/"
                 />
   </url>
   
   <url>
-    <loc>//mrevolution.eu/it/categories/</loc>
+    <loc>https://mrevolution.eu/it/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//mrevolution.eu/categories/"
+                href="https://mrevolution.eu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//mrevolution.eu/it/categories/"
+                href="https://mrevolution.eu/it/categories/"
                 />
   </url>
   
   <url>
-    <loc>//mrevolution.eu/it/</loc>
+    <loc>https://mrevolution.eu/it/</loc>
     <lastmod>2017-06-19T16:33:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//mrevolution.eu/"
+                href="https://mrevolution.eu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//mrevolution.eu/it/"
+                href="https://mrevolution.eu/it/"
                 />
   </url>
   
   <url>
-    <loc>//mrevolution.eu/it/tags/</loc>
+    <loc>https://mrevolution.eu/it/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//mrevolution.eu/tags/"
+                href="https://mrevolution.eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//mrevolution.eu/it/tags/"
+                href="https://mrevolution.eu/it/tags/"
                 />
   </url>
   
