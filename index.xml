@@ -6,10 +6,20 @@
     <description>Recent content on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2017 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 15:25:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Academy for Ads achievements</title>
+      <link>https://mrevolution.eu/blog/google-academy-for-ads-achievements/</link>
+      <pubDate>Mon, 06 Nov 2017 15:25:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/blog/google-academy-for-ads-achievements/</guid>
+      <description>Achievements earned in Google Academy for Ads:
+ Google Web Designer Basics certificate (passed on 9th October 2017) DoubleClick Dynamic Creative Basics certificate (passed on 6th November 2017)  </description>
+    </item>
     
     <item>
       <title>Website improvements</title>
@@ -40,15 +50,6 @@ My Italian translation is part of the release 1.8 (details on pull request).</de
       <description>I&amp;rsquo;ve been 10 years in IT sector with technical background and service in mind.
 My strength are: GNU/Linux, Cloud Computing and Internet of Things.
 I like to explore the newest technology innovations like Deep Learning and BigData.</description>
-    </item>
-    
-    <item>
-      <title>Google Web Designer Certification</title>
-      <link>https://mrevolution.eu/blog/google-web-designer-certification/</link>
-      <pubDate>Thu, 12 Oct 2017 09:30:00 +0200</pubDate>
-      
-      <guid>https://mrevolution.eu/blog/google-web-designer-certification/</guid>
-      <description>On October, the 9th I&amp;rsquo;ve passed the Google Web Designer Exam. See my Google Web Designer certificate.</description>
     </item>
     
     <item>
