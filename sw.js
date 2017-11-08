@@ -20,11 +20,11 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "e7ec72366469d52203083e717d06743f"
+    "revision": "be49ca17a8f5c75e853928801a869049"
   },
   {
     "url": "blog/google-academy-for-ads-achievements/index.html",
-    "revision": "9b6b5a18c7583ab6902e6b026e9e30f4"
+    "revision": "b21e2890044a67f83200d315064b3e2a"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
@@ -32,23 +32,23 @@ const fileManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "6f7b156ce526bb7c48a77b721ae8933d"
+    "revision": "0973d4802b237f68842963f6ac38d5e7"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "a730cd36269b32e9b9476197b97f323f"
+    "revision": "52155246ff2c1609ae704302480bb643"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "0006e0ce87392977f08ba58fe822b487"
+    "revision": "d168686070a07a8d8c7c0d330cc7b8e3"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
-    "revision": "7d25a0698b673f6d366a6061d5881cab"
+    "revision": "772696cd169d82fb7944f6a5dbb2dbb8"
   },
   {
     "url": "blog/website-improvements/index.html",
-    "revision": "ce44ac33d8705fea8fdd116dcd301912"
+    "revision": "7c80c867fa69b6342ceb576efc2ede34"
   },
   {
     "url": "css/dark-style.css",
@@ -67,6 +67,38 @@ const fileManifest = [
     "revision": "6433b14ba2c0b4405bd6d8e0a2d4f177"
   },
   {
+    "url": "img/google_ads_Creative_Core.png",
+    "revision": "8609aeb6036de4cb97149ddfc1d36aad"
+  },
+  {
+    "url": "img/google_ads_HTML5.png",
+    "revision": "52d5fbe325da5d80ac863f4f305a99ad"
+  },
+  {
+    "url": "img/google_ads_Studio.png",
+    "revision": "39f9f964ee3c2585f5600d4efa360fe1"
+  },
+  {
+    "url": "img/google_ads_web_designer.png",
+    "revision": "cff7f9b6c9af7a59dd3e536005c7d6d5"
+  },
+  {
+    "url": "img/google_web_designer_certification.png",
+    "revision": "ab54b4905660b0a68579a259efc8b282"
+  },
+  {
+    "url": "img/prj_n2w.png",
+    "revision": "cb57413e4218e9c59e7cec34847cf171"
+  },
+  {
+    "url": "img/prj_pdfprocessor.png",
+    "revision": "ce72ad44f9252a0dc0be4bf32ecc867f"
+  },
+  {
+    "url": "img/prj_tree_fuchsiaos.png",
+    "revision": "99b8ca1b77e4e92afefb16ba835faba1"
+  },
+  {
     "url": "img/profile_Google_Web_Designer_certification.jpg",
     "revision": "09776b9014b4f44e70db5b68afe5cfa9"
   },
@@ -76,15 +108,15 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "53e9f03c28e7d934f974072e3366f877"
+    "revision": "2534cfac1b5c07cf1ade5a09edc59392"
   },
   {
     "url": "it/404.html",
-    "revision": "5fc35649501453f4b7be99f9ba482f78"
+    "revision": "8094d12ea5942332caf879c40cb3ca03"
   },
   {
     "url": "it/index.html",
-    "revision": "09c958a78def461d1f95a93814dc926a"
+    "revision": "e505c701ffe795494f8a69a4ba79c3c9"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
