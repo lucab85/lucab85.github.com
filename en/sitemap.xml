@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mrevolution.eu/blog/linux-foundation-lfce-certification/</loc>
+    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrevolution.eu/blog/google-academy-for-ads-achievements/</loc>
     <lastmod>2017-11-08T12:00:00+02:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://mrevolution.eu/blog/</loc>
-    <lastmod>2017-11-08T12:00:00+02:00</lastmod>
+    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,7 +75,7 @@
   
   <url>
     <loc>https://mrevolution.eu/</loc>
-    <lastmod>2017-11-08T12:00:00+02:00</lastmod>
+    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

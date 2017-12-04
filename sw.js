@@ -20,11 +20,11 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "be49ca17a8f5c75e853928801a869049"
+    "revision": "e31ddab57e17c288bf1846f13e661929"
   },
   {
     "url": "blog/google-academy-for-ads-achievements/index.html",
-    "revision": "b21e2890044a67f83200d315064b3e2a"
+    "revision": "b84a4b42c69df3f89dd86162c1dd38fb"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
@@ -32,23 +32,27 @@ const fileManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "0973d4802b237f68842963f6ac38d5e7"
+    "revision": "b4e7d598cbd9c7ab215e00a2c3a6327c"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "52155246ff2c1609ae704302480bb643"
+    "revision": "033ad71226b4340a629253f8cbc9f21a"
+  },
+  {
+    "url": "blog/linux-foundation-lfce-certification/index.html",
+    "revision": "076b25306c7c29fb674b5d358d9cea93"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "d168686070a07a8d8c7c0d330cc7b8e3"
+    "revision": "5e5d86be05323557fb1c2d9856dcd869"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
-    "revision": "772696cd169d82fb7944f6a5dbb2dbb8"
+    "revision": "cca9f2409ac048c863481b2c208ab97e"
   },
   {
     "url": "blog/website-improvements/index.html",
-    "revision": "7c80c867fa69b6342ceb576efc2ede34"
+    "revision": "82c7059f0802a3b36d92374cacb4f5a5"
   },
   {
     "url": "css/dark-style.css",
@@ -108,15 +112,15 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2534cfac1b5c07cf1ade5a09edc59392"
+    "revision": "d6faf2e004993064e1d240732fd1af1c"
   },
   {
     "url": "it/404.html",
-    "revision": "8094d12ea5942332caf879c40cb3ca03"
+    "revision": "79fa11e2ffc0afd755d0514088e8a39b"
   },
   {
     "url": "it/index.html",
-    "revision": "e505c701ffe795494f8a69a4ba79c3c9"
+    "revision": "728fe407c30308ab6dd98f0a0e6c6b18"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
@@ -134,7 +138,7 @@ const fileManifest = [
 
 const workboxSW = new self.WorkboxSW();
 workboxSW.precache(fileManifest);
-workboxSW.router.registerRoute(/.(jpg|ico)$/, workboxSW.strategies.networkFirst({
+workboxSW.router.registerRoute(/.(jpg|ico|png)$/, workboxSW.strategies.networkFirst({
   "cacheName": "image-cache",
   "cacheExpiration": {
     "maxEntries": 10

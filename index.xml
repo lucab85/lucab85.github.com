@@ -6,10 +6,21 @@
     <description>Recent content on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Nov 2017 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2017 11:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux Foundation LFCE certification</title>
+      <link>https://mrevolution.eu/blog/linux-foundation-lfce-certification/</link>
+      <pubDate>Mon, 04 Dec 2017 11:00:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/blog/linux-foundation-lfce-certification/</guid>
+      <description>Obtained Linux Foundation LFCE (Linux Foundation Certified Engineer) certification!
+ Linux Foundation_LFCE_certificate.pdf (passed on 3th December 2017)  The Linux Foundation is the foundation that support the development of Linux and others OpenSource initiatives worldwide. The Linux creator &amp;ldquo;Linus Torvalds&amp;ldquo; works under its umbrella and hosts kernel.org website.
+A LFCE (Linux Foundation Certified Engineer) certified engineer possesses in depth skills of Linux system and is responsible for the design and implementation of system architecture.</description>
+    </item>
     
     <item>
       <title>Google Academy for Ads achievements</title>
@@ -58,7 +69,7 @@ I like to explore the newest technology innovations like Deep Learning and BigDa
       <pubDate>Thu, 13 Jul 2017 12:00:00 +0200</pubDate>
       
       <guid>https://mrevolution.eu/blog/webfundamentals-contributions/</guid>
-      <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian translator. More about my pull requests. I&amp;rsquo;m also on the contributors page.</description>
+      <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian translations contributor and moderator. More about my pull requests. I&amp;rsquo;m also on the contributors page.</description>
     </item>
     
     <item>
