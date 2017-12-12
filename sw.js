@@ -20,11 +20,11 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "e31ddab57e17c288bf1846f13e661929"
+    "revision": "05a79ecf314a51c6f0d32f7993ba79f1"
   },
   {
     "url": "blog/google-academy-for-ads-achievements/index.html",
-    "revision": "b84a4b42c69df3f89dd86162c1dd38fb"
+    "revision": "1b592a69bd86bc179dcbfc5a7c15952c"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
@@ -32,27 +32,27 @@ const fileManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "b4e7d598cbd9c7ab215e00a2c3a6327c"
+    "revision": "169db353328e18c17abd165719fabb08"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "033ad71226b4340a629253f8cbc9f21a"
+    "revision": "ea3a3c8c25f21218f5bb69234a66174f"
   },
   {
     "url": "blog/linux-foundation-lfce-certification/index.html",
-    "revision": "076b25306c7c29fb674b5d358d9cea93"
+    "revision": "364e1c6854f834f32463b9ee1c81c19c"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "5e5d86be05323557fb1c2d9856dcd869"
+    "revision": "5a11d148b0fded23fb26f331b4fcb129"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
-    "revision": "cca9f2409ac048c863481b2c208ab97e"
+    "revision": "2c9b82e6839cd93b6b89546a72ab7a75"
   },
   {
     "url": "blog/website-improvements/index.html",
-    "revision": "82c7059f0802a3b36d92374cacb4f5a5"
+    "revision": "db13e660ed5cd6443d454d178624f957"
   },
   {
     "url": "css/dark-style.css",
@@ -112,15 +112,15 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d6faf2e004993064e1d240732fd1af1c"
+    "revision": "000221cb84078181d4ad30fb1963fc4e"
   },
   {
     "url": "it/404.html",
-    "revision": "79fa11e2ffc0afd755d0514088e8a39b"
+    "revision": "b08c9dc81db21d7ca6e93ba63e8eec57"
   },
   {
     "url": "it/index.html",
-    "revision": "728fe407c30308ab6dd98f0a0e6c6b18"
+    "revision": "2e9d9d79d8b9934b3b7cd3b33bfcea91"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
