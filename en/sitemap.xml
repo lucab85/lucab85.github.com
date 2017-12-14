@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mrevolution.eu/blog/google-webfundamentals-contributions/</loc>
+    <lastmod>2017-12-12T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrevolution.eu/blog/linux-foundation-lfce-certification/</loc>
     <lastmod>2017-12-04T11:00:00+02:00</lastmod>
   </url>
@@ -38,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://mrevolution.eu/blog/webfundamentals-contributions/</loc>
-    <lastmod>2017-07-13T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mrevolution.eu/blog/new-site/</loc>
     <lastmod>2017-05-25T17:30:00+02:00</lastmod>
   </url>
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://mrevolution.eu/blog/</loc>
-    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
+    <lastmod>2017-12-12T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +75,7 @@
   
   <url>
     <loc>https://mrevolution.eu/</loc>
-    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
+    <lastmod>2017-12-12T12:00:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2017 11:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2017 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google WebFundamentals contributions</title>
+      <link>https://mrevolution.eu/blog/google-webfundamentals-contributions/</link>
+      <pubDate>Tue, 12 Dec 2017 12:00:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/blog/google-webfundamentals-contributions/</guid>
+      <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian moderator and translator.
+List of approved translations:
+ Performance Misurazione performance con il modello RAIL Comprendere la bassa larghezza di banda e la latenza elevata Introduzione a HTTP/2 Il modello PRPL Priorizzare le risorse: fare in modo che il browser ti sia d&amp;rsquo;aiuto Performance di rendering Evita i layout grandi, complessi e schiaccianti Utilizza proprietà del componente di composizione e gestisci il conteggio dei livelli Ridurre i rimbalzi dei gestori di input Coursi Udacity  List of approved proofreading:</description>
+    </item>
     
     <item>
       <title>Linux Foundation LFCE certification</title>
@@ -50,15 +61,6 @@ A LFCE (Linux Foundation Certified Engineer) certified engineer possesses in dep
       <guid>https://mrevolution.eu/blog/kubernetes-contributions/</guid>
       <description>I&amp;rsquo;ve been started my contribution to Kubernetes project (Production-Grade Container Orchestration).
 My Italian translation is part of the release 1.8 (details on pull request).</description>
-    </item>
-    
-    <item>
-      <title>WebFundamentals contributions</title>
-      <link>https://mrevolution.eu/blog/webfundamentals-contributions/</link>
-      <pubDate>Thu, 13 Jul 2017 12:00:00 +0200</pubDate>
-      
-      <guid>https://mrevolution.eu/blog/webfundamentals-contributions/</guid>
-      <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian translations contributor and moderator. More about my pull requests. I&amp;rsquo;m also on the contributors page.</description>
     </item>
     
     <item>
