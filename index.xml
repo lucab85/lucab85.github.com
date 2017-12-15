@@ -6,7 +6,7 @@
     <description>Recent content on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2017 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2017 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>Google WebFundamentals contributions</title>
       <link>https://mrevolution.eu/blog/google-webfundamentals-contributions/</link>
-      <pubDate>Tue, 12 Dec 2017 12:00:00 +0200</pubDate>
+      <pubDate>Fri, 15 Dec 2017 09:00:00 +0200</pubDate>
       
       <guid>https://mrevolution.eu/blog/google-webfundamentals-contributions/</guid>
       <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian moderator and translator.
 List of approved translations:
- Performance Misurazione performance con il modello RAIL Comprendere la bassa larghezza di banda e la latenza elevata Introduzione a HTTP/2 Il modello PRPL Priorizzare le risorse: fare in modo che il browser ti sia d&amp;rsquo;aiuto Performance di rendering Evita i layout grandi, complessi e schiaccianti Utilizza proprietà del componente di composizione e gestisci il conteggio dei livelli Ridurre i rimbalzi dei gestori di input Coursi Udacity  List of approved proofreading:</description>
+ Performance Misurazione performance con il modello RAIL Comprendere la bassa larghezza di banda e la latenza elevata Introduzione a HTTP/2 Il modello PRPL Priorizzare le risorse: fare in modo che il browser ti sia d&amp;rsquo;aiuto Performance di rendering Evita i layout grandi, complessi e schiaccianti Utilizza proprietà del componente di composizione e gestisci il conteggio dei livelli Ridurre i rimbalzi dei gestori di input Semplifica la complessità di Paint e riduci le Aree di Paint Riduci l&amp;rsquo;ambito e la complessità dei calcoli di stile Ottimizza l&amp;rsquo;esecuzione di JavaScript Coursi Udacity  List of approved proofreading:</description>
     </item>
     
     <item>
