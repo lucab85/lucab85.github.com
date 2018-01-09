@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Sito web di Luca Berton, blog e tante cose cool. Il Web è il mio parco giochi!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2017 16:33:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/it/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://mrevolution.eu/it/tags/big-data/</link>
+      <pubDate>Mon, 19 Jun 2017 16:33:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/it/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://mrevolution.eu/it/tags/cloud/</link>
+      <pubDate>Mon, 19 Jun 2017 16:33:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/it/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://mrevolution.eu/it/tags/deep-learning/</link>
+      <pubDate>Mon, 19 Jun 2017 16:33:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/it/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Things</title>
+      <link>https://mrevolution.eu/it/tags/internet-of-things/</link>
+      <pubDate>Mon, 19 Jun 2017 16:33:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/it/tags/internet-of-things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>https://mrevolution.eu/it/tags/iot/</link>
+      <pubDate>Mon, 19 Jun 2017 16:33:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/it/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://mrevolution.eu/it/tags/linux/</link>
+      <pubDate>Mon, 19 Jun 2017 16:33:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/it/tags/linux/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

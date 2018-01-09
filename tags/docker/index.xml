@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</title>
+    <link>https://mrevolution.eu/tags/docker/</link>
+    <description>Recent content in Docker on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2017 11:18:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://mrevolution.eu/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes contributions</title>
+      <link>https://mrevolution.eu/blog/kubernetes-contributions/</link>
+      <pubDate>Mon, 06 Nov 2017 11:18:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/blog/kubernetes-contributions/</guid>
+      <description>I&amp;rsquo;ve been started my contribution to Kubernetes project (Production-Grade Container Orchestration).
+My Italian translation is part of the release 1.8 (details on pull request).</description>
+    </item>
+    
+  </channel>
+</rss>

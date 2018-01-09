@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</title>
+    <link>https://mrevolution.eu/tags/big-data/</link>
+    <description>Recent content in Big Data on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 16:42:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mrevolution.eu/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://mrevolution.eu/about/</link>
+      <pubDate>Tue, 09 Jan 2018 16:42:00 +0100</pubDate>
+      
+      <guid>https://mrevolution.eu/about/</guid>
+      <description>I&amp;rsquo;ve been 10 years in IT sector with technical background and service in mind.
+My strengths are: GNU/Linux, Cloud Computing and Internet of Things.
+I like to explore the newest technology innovations like Deep Learning and BigData.</description>
+    </item>
+    
+  </channel>
+</rss>

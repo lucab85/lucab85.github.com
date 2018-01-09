@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mrevolution.eu/it/about/</loc>
+    <loc>https://mrevolution.eu/it/#about/</loc>
     <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mrevolution.eu/about/"
+                href="https://mrevolution.eu/#about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mrevolution.eu/it/about/"
+                href="https://mrevolution.eu/it/#about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/it/tags/big-data/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrevolution.eu/tags/big-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrevolution.eu/it/tags/big-data/"
                 />
   </url>
   
   <url>
     <loc>https://mrevolution.eu/it/categories/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -33,8 +53,94 @@
   </url>
   
   <url>
+    <loc>https://mrevolution.eu/it/tags/cloud/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrevolution.eu/tags/cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrevolution.eu/it/tags/cloud/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/it/tags/deep-learning/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrevolution.eu/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrevolution.eu/it/tags/deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/it/tags/internet-of-things/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrevolution.eu/tags/internet-of-things/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrevolution.eu/it/tags/internet-of-things/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/it/tags/iot/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrevolution.eu/tags/iot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrevolution.eu/it/tags/iot/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/it/tags/linux/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrevolution.eu/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrevolution.eu/it/tags/linux/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mrevolution.eu/it/</loc>
     <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -50,6 +156,8 @@
   
   <url>
     <loc>https://mrevolution.eu/it/tags/</loc>
+    <lastmod>2017-06-19T16:33:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
