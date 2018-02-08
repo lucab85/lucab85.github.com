@@ -20,11 +20,11 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "017f3fc30b9dd57c5597bed4ec27c317"
+    "revision": "309b32e86c592cb3f49a8729eeceabf8"
   },
   {
     "url": "blog/google-academy-for-ads-achievements/index.html",
-    "revision": "3e81c79c5683ecf27c7ee397f9a8d93a"
+    "revision": "bb7a6b3f024e2802951d601b3e95b261"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
@@ -32,23 +32,23 @@ const fileManifest = [
   },
   {
     "url": "blog/google-webfundamentals-contributions/index.html",
-    "revision": "3ddd8e31821bbe08ef9b912ed717e68a"
+    "revision": "0468885713c7e570de87d6dcae45ecf9"
   },
   {
     "url": "blog/index.html",
-    "revision": "04be772f3622aa3acb319c204ae2291d"
+    "revision": "f2ec16b51ef99a608316d7690ce718f3"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "9f513399560d04b84a8e76166ba79d58"
+    "revision": "e630ec8d3b523cfe1d42172bf29b93e4"
   },
   {
     "url": "blog/linux-foundation-lfce-certification/index.html",
-    "revision": "ccfefc21df92565995a2e2982dd2034e"
+    "revision": "e0b96527f81044323052a36821e1de37"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "6cbc70acf0f2f0a2dafe32c4568c53a4"
+    "revision": "d0d369396cf7e726770980ad04539338"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
@@ -56,39 +56,43 @@ const fileManifest = [
   },
   {
     "url": "blog/website-improvements/index.html",
-    "revision": "9b03e4b162b04c8a84fbff47b31756ee"
+    "revision": "804678ff57dc273886f7b69e66a2d9cc"
   },
   {
     "url": "categories/ads/index.html",
-    "revision": "d44168a9c1be91019ae34537ed6c237f"
+    "revision": "9b4bd2a96c334b998209304e1dab3d74"
   },
   {
     "url": "categories/certifications/index.html",
-    "revision": "e457eff06ccdf272d0df44c6ff72c252"
+    "revision": "41014b80882f911302c871bf4e92ec38"
   },
   {
     "url": "categories/contributions/index.html",
-    "revision": "3808c1ef718e15d5dab188b62ac542ac"
+    "revision": "cfe7a5a8f0d256c27185355b3fd50e91"
   },
   {
     "url": "categories/docker/index.html",
-    "revision": "8349f030afec7cb96e8cd5113baae530"
+    "revision": "c35a39a01ef4afb905652d14a9f322ac"
+  },
+  {
+    "url": "categories/index.html",
+    "revision": "69f604213a5c7334ab5692f95a548a74"
   },
   {
     "url": "categories/linux/index.html",
-    "revision": "759ba950929ca6e0c2cfeb558e3b7266"
+    "revision": "15f9a2e44f3a567d770c2e8dfec287ef"
   },
   {
     "url": "categories/localization/index.html",
-    "revision": "ac22c0b796ae7b34b723deb31deae9cc"
+    "revision": "fb15d666209d5c36f84df1ba090f5caf"
   },
   {
     "url": "categories/translations/index.html",
-    "revision": "3af32ff3ad264df1e828e98729a08cc6"
+    "revision": "006c557d9d33b46342e9d2b5295cfb03"
   },
   {
     "url": "categories/web/index.html",
-    "revision": "0754b8a240d60ebc791f4185a22291dc"
+    "revision": "dd452caa7ab8e6d0f0e1095fbe906c46"
   },
   {
     "url": "css/dark-style.css",
@@ -148,39 +152,47 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0e6498d49bf2452c375be86673502d9b"
+    "revision": "968c77590f19eae2bd2413c989269611"
   },
   {
     "url": "it/404.html",
-    "revision": "b678b97df7c75ec48bb5bfe4cc080562"
+    "revision": "48b40ccbcf3ecbdb77f64d9c611508e2"
+  },
+  {
+    "url": "it/categories/index.html",
+    "revision": "2e240c102675ae6dd6f31b05436a221b"
   },
   {
     "url": "it/index.html",
-    "revision": "0272bf86fb63ccfa13d72dd1093ecc13"
+    "revision": "d4916f2d6776de753e7c73166bc7fbe9"
   },
   {
     "url": "it/tags/big-data/index.html",
-    "revision": "6cb4ee28fe489abc0bdac24f130a8964"
+    "revision": "34f18b88fce095e540a2c8e4b6d24060"
   },
   {
     "url": "it/tags/cloud/index.html",
-    "revision": "5afaf81d1585aa85817e998364a599fb"
+    "revision": "d9b8a8fe8b263a487a230d22632c0261"
   },
   {
     "url": "it/tags/deep-learning/index.html",
-    "revision": "b967eaefe95ad839f064863011207ab0"
+    "revision": "809c259783df2033a4b0a26ba698977d"
+  },
+  {
+    "url": "it/tags/index.html",
+    "revision": "4d16c336f0cf7f152cfb19c8e40c3aa7"
   },
   {
     "url": "it/tags/internet-of-things/index.html",
-    "revision": "77ca04290b402d5107b51dd5cb0347da"
+    "revision": "18a269d7093c85368e9e8d8eb548ee16"
   },
   {
     "url": "it/tags/iot/index.html",
-    "revision": "59ef28ab9cce3e0296cecb46a4fe8481"
+    "revision": "e13c3803b5f94555d0b357a6523bc3d1"
   },
   {
     "url": "it/tags/linux/index.html",
-    "revision": "dde16ad342cd10f159d650f91308af9c"
+    "revision": "59194b44bd998c706bbafe1435e17dbb"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
@@ -196,79 +208,83 @@ const fileManifest = [
   },
   {
     "url": "tags/ads/index.html",
-    "revision": "8cc5c9a874a85b8b8a32beca0ab6bf93"
+    "revision": "c2c900c2c035986e0b0ee27ef467f69f"
   },
   {
     "url": "tags/big-data/index.html",
-    "revision": "7747a0504bb8791d60f350c31b66713b"
+    "revision": "253bc2a26b2130ff6c6f93f0bd3912a7"
   },
   {
     "url": "tags/certification/index.html",
-    "revision": "a2d506b8486be47cd71a4d272d16bcb5"
+    "revision": "4520f0f28e07afd01f974e67aeae2975"
   },
   {
     "url": "tags/cloud/index.html",
-    "revision": "aca0c5c22d436f731e7a5f3d2b40e948"
+    "revision": "6e14886c9bc7f0da9b5a4a3ea60d3c6a"
   },
   {
     "url": "tags/css3/index.html",
-    "revision": "fd2ea0afa75f90b4606204a6071a7752"
+    "revision": "91d484088f1fa57cfbd61da53529662e"
   },
   {
     "url": "tags/deep-learning/index.html",
-    "revision": "448a50c0a0fa9354b1faad6d4224526b"
+    "revision": "e825fdeb7a6e627f4651af463338199e"
   },
   {
     "url": "tags/docker/index.html",
-    "revision": "772c9669b9ea3574c867d7d67d0687be"
+    "revision": "11d277e06491c73a2da1519560a86c5a"
   },
   {
     "url": "tags/doubleclick/index.html",
-    "revision": "86754024ecc1c09d235b1c4f6176759a"
+    "revision": "efaebc0202426e28ff081afb2e5b1d0d"
   },
   {
     "url": "tags/google/index.html",
-    "revision": "868679120217f092a0c19cd0c5e95874"
+    "revision": "fd260e79e44ca5b9605663110b595229"
   },
   {
     "url": "tags/html5/index.html",
-    "revision": "873f74c1e8611fd2b65c3a5f1107d420"
+    "revision": "09b9331f99eb89fe8dff2b649cd13bfa"
   },
   {
     "url": "tags/i18n/index.html",
-    "revision": "afcb52fc3d8460e4b7488b23445bf94c"
+    "revision": "42bfe0775da2519685408b98dcdb88f1"
+  },
+  {
+    "url": "tags/index.html",
+    "revision": "23a78a9e9516b99cff38aeac7a927b60"
   },
   {
     "url": "tags/internet-of-things/index.html",
-    "revision": "1d184e36f062f1e5fbf7dd7639685c9a"
+    "revision": "cc111ed070fa9015e707ba48daa35337"
   },
   {
     "url": "tags/iot/index.html",
-    "revision": "9e96717e376f36bc2d4a49cd8d5c2885"
+    "revision": "ac3825b01355d5a863fc635d3f515396"
   },
   {
     "url": "tags/italian/index.html",
-    "revision": "7cef1d7d498999cbba5696177f2bf161"
+    "revision": "16aa9a32ef3a4055e011f28a5c680cda"
   },
   {
     "url": "tags/javascript/index.html",
-    "revision": "fa438cb07ebbc8664967b2efa7a3b32f"
+    "revision": "efd31291e518468352a151197e5bac74"
   },
   {
     "url": "tags/l10n/index.html",
-    "revision": "9bbb13f87417621b63d9ef187c37e692"
+    "revision": "ac71fa8d249bef6ca5f7b2666468b566"
   },
   {
     "url": "tags/lfce/index.html",
-    "revision": "b19074cac508550ab84e3823c2f605db"
+    "revision": "eaf2749ac8b864b7a1e40dbf798ef8f7"
   },
   {
     "url": "tags/linux/index.html",
-    "revision": "4b3acd4b3c54fc5f34906d4090b57fe3"
+    "revision": "638a6dd5cc87e4424e36a4c86c681975"
   },
   {
     "url": "tags/web/index.html",
-    "revision": "a46d4e2c20f6fe69f5025a2b3877c3fd"
+    "revision": "885af00018776a8d35047b34e94b740b"
   }
 ];
 
