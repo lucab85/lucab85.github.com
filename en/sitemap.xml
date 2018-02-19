@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mrevolution.eu/blog/mobile-web-specialist-nanodegree/</loc>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mrevolution.eu/#about/</loc>
     <lastmod>2018-01-09T16:42:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -101,7 +108,7 @@
   
   <url>
     <loc>https://mrevolution.eu/blog/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -125,14 +132,14 @@
   
   <url>
     <loc>https://mrevolution.eu/tags/certification/</loc>
-    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/categories/certifications/</loc>
-    <lastmod>2017-12-04T11:00:00+02:00</lastmod>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -208,7 +215,14 @@
   
   <url>
     <loc>https://mrevolution.eu/tags/google/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/categories/google/</loc>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -322,7 +336,7 @@
   
   <url>
     <loc>https://mrevolution.eu/</loc>
-    <lastmod>2018-01-09T16:42:00+01:00</lastmod>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -335,6 +349,13 @@
                 hreflang="en"
                 href="https://mrevolution.eu/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/tags/nanodegree/</loc>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -357,6 +378,20 @@
   <url>
     <loc>https://mrevolution.eu/categories/translations/</loc>
     <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/tags/udacity/</loc>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrevolution.eu/categories/udacity/</loc>
+    <lastmod>2018-02-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

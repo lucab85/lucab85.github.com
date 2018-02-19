@@ -23,7 +23,7 @@
     <item>
       <title>Certifications</title>
       <link>https://mrevolution.eu/categories/certifications/</link>
-      <pubDate>Mon, 04 Dec 2017 11:00:00 +0200</pubDate>
+      <pubDate>Mon, 19 Feb 2018 12:00:00 +0200</pubDate>
       
       <guid>https://mrevolution.eu/categories/certifications/</guid>
       <description></description>
@@ -44,6 +44,15 @@
       <pubDate>Mon, 06 Nov 2017 11:18:00 +0200</pubDate>
       
       <guid>https://mrevolution.eu/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://mrevolution.eu/categories/google/</link>
+      <pubDate>Mon, 19 Feb 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/categories/google/</guid>
       <description></description>
     </item>
     
@@ -71,6 +80,15 @@
       <pubDate>Mon, 01 Jan 2018 16:30:00 +0100</pubDate>
       
       <guid>https://mrevolution.eu/categories/translations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udacity</title>
+      <link>https://mrevolution.eu/categories/udacity/</link>
+      <pubDate>Mon, 19 Feb 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/categories/udacity/</guid>
       <description></description>
     </item>
     

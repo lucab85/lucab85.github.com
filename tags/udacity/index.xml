@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Udacity on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</title>
+    <link>https://mrevolution.eu/tags/udacity/</link>
+    <description>Recent content in Udacity on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2018 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://mrevolution.eu/tags/udacity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Mobile Web Specialist Nanodegree</title>
+      <link>https://mrevolution.eu/blog/mobile-web-specialist-nanodegree/</link>
+      <pubDate>Mon, 19 Feb 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://mrevolution.eu/blog/mobile-web-specialist-nanodegree/</guid>
+      <description>I was selected for a full 6-month Mobile Web Specialist Nanodegree - Google Developer Scholarship EMEA program (1.000 seats) after 3 months of Google Developer Challenge (10.000 seats). Excited about this opportunity! Thank you Udacity &amp;amp; Google</description>
+    </item>
+    
+  </channel>
+</rss>
