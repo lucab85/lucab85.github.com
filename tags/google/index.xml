@@ -6,13 +6,25 @@
     <description>Recent content in Google on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2018 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 09:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title> Mobile Web Specialist Nanodegree</title>
+      <title>Responsive Design snippets</title>
+      <link>https://mrevolution.eu/blog/responsive-design-snippets/</link>
+      <pubDate>Fri, 23 Feb 2018 09:00:00 +0100</pubDate>
+      
+      <guid>https://mrevolution.eu/blog/responsive-design-snippets/</guid>
+      <description>Viewport &amp;lt;head&amp;gt; [...] &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.0&amp;quot;&amp;gt; [...] &amp;lt;/head&amp;gt;  Use small or relative sizes &amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; .logo{ width: 100px; } .box{ width: 100%; } .hero{ max-width: 100%; } &amp;lt;/style&amp;gt;  Tap/touch targets  fixed 48px area
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; nav, a, button { min-width: 48px; min-height: 48px; } &amp;lt;/style&amp;gt;  variable area
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; nav, a, button { padding: 1.5em; } &amp;lt;/style&amp;gt;   CSS Media Query Usage
+ CSS Media Query with linked file</description>
+    </item>
+    
+    <item>
+      <title>Mobile Web Specialist Nanodegree</title>
       <link>https://mrevolution.eu/blog/mobile-web-specialist-nanodegree/</link>
       <pubDate>Mon, 19 Feb 2018 12:00:00 +0200</pubDate>
       

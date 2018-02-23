@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Design</title>
+      <link>https://mrevolution.eu/categories/design/</link>
+      <pubDate>Fri, 23 Feb 2018 09:00:00 +0100</pubDate>
+      
+      <guid>https://mrevolution.eu/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>https://mrevolution.eu/categories/docker/</link>
       <pubDate>Mon, 06 Nov 2017 11:18:00 +0200</pubDate>
@@ -80,6 +89,15 @@
       <pubDate>Mon, 01 Jan 2018 16:30:00 +0100</pubDate>
       
       <guid>https://mrevolution.eu/categories/translations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://mrevolution.eu/categories/tutorial/</link>
+      <pubDate>Fri, 23 Feb 2018 09:00:00 +0100</pubDate>
+      
+      <guid>https://mrevolution.eu/categories/tutorial/</guid>
       <description></description>
     </item>
     
