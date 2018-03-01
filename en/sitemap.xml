@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mrevolution.eu/blog/google-webfundamentals-contributions/</loc>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mrevolution.eu/blog/responsive-design-snippets/</loc>
     <lastmod>2018-02-23T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,13 +38,6 @@
                 hreflang="en"
                 href="https://mrevolution.eu/#about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://mrevolution.eu/blog/google-webfundamentals-contributions/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -115,7 +115,7 @@
   
   <url>
     <loc>https://mrevolution.eu/blog/</loc>
-    <lastmod>2018-02-23T09:00:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -170,14 +170,14 @@
   
   <url>
     <loc>https://mrevolution.eu/categories/contributions/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/tags/css3/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -229,7 +229,7 @@
   
   <url>
     <loc>https://mrevolution.eu/tags/google/</loc>
-    <lastmod>2018-02-23T09:00:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -243,14 +243,14 @@
   
   <url>
     <loc>https://mrevolution.eu/tags/html5/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/tags/i18n/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -291,21 +291,21 @@
   
   <url>
     <loc>https://mrevolution.eu/tags/italian/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/tags/javascript/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/tags/l10n/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -343,14 +343,14 @@
   
   <url>
     <loc>https://mrevolution.eu/categories/localization/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/</loc>
-    <lastmod>2018-02-23T09:00:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -398,7 +398,7 @@
   
   <url>
     <loc>https://mrevolution.eu/categories/translations/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -426,14 +426,14 @@
   
   <url>
     <loc>https://mrevolution.eu/tags/web/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrevolution.eu/categories/web/</loc>
-    <lastmod>2018-01-01T16:30:00+01:00</lastmod>
+    <lastmod>2018-02-28T10:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

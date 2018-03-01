@@ -20,11 +20,11 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "404.html",
-    "revision": "270d84e4ec36ae3cdd47bdb77cbbbc57"
+    "revision": "9375f8d0d3865080e4e13384d1a47564"
   },
   {
     "url": "blog/google-academy-for-ads-achievements/index.html",
-    "revision": "56c1644f586318895f8af94d5ac5ea0b"
+    "revision": "912c6b8e57e8e10fdfc1c2f6e56d6791"
   },
   {
     "url": "blog/google-web-designer-certification/index.html",
@@ -32,31 +32,31 @@ const fileManifest = [
   },
   {
     "url": "blog/google-webfundamentals-contributions/index.html",
-    "revision": "6f03855b523294fa0562038589486f26"
+    "revision": "27eff0563e80caf9a0b128147067afd9"
   },
   {
     "url": "blog/index.html",
-    "revision": "810905e3facf3816c4dd38ea00dbb3ad"
+    "revision": "3af334cce5749752e7fe568bc7cce058"
   },
   {
     "url": "blog/kubernetes-contributions/index.html",
-    "revision": "a196ea6aa13d321bbf39af161852d123"
+    "revision": "826a1066050ab4c926eb2106b0932d6a"
   },
   {
     "url": "blog/linux-foundation-lfce-certification/index.html",
-    "revision": "0f1895465bb6fc8e3313950da8a3445b"
+    "revision": "df6e6ba62f4dda15e47e45919b8c7b00"
   },
   {
     "url": "blog/mobile-web-specialist-nanodegree/index.html",
-    "revision": "4a4bc2e73d0f88910d84e3ef7eb20539"
+    "revision": "a5bb1a2217c2fc00a24cce955269d7fb"
   },
   {
     "url": "blog/new-site/index.html",
-    "revision": "3784f37b10d2fd4d4ba382ac4b6fbe5a"
+    "revision": "ec7ee26931bad2ca96583f17cce281d2"
   },
   {
     "url": "blog/responsive-design-snippets/index.html",
-    "revision": "e33ad4582994eea2ba4f3fc532c6938b"
+    "revision": "283767fa59389e063bb68d4608bfec94"
   },
   {
     "url": "blog/webfundamentals-contributions/index.html",
@@ -64,59 +64,59 @@ const fileManifest = [
   },
   {
     "url": "blog/website-improvements/index.html",
-    "revision": "0b07aa7a339229a76dc081d8b3ddc4f6"
+    "revision": "8f2f00e39e486c0907afec43bdc9ba2b"
   },
   {
     "url": "categories/ads/index.html",
-    "revision": "e1533b0c99673ef14c5e295099f576ec"
+    "revision": "cd004d1455873954363585b155f8d62d"
   },
   {
     "url": "categories/certifications/index.html",
-    "revision": "6daaae43e46bf0c745020c9e95555592"
+    "revision": "3a8940690ecc564b5c596745fe9086c5"
   },
   {
     "url": "categories/contributions/index.html",
-    "revision": "8016787d6ed79ac741fd358cd3f40085"
+    "revision": "d921c403ce47df527fe114a55d5e4275"
   },
   {
     "url": "categories/design/index.html",
-    "revision": "31ccec2df028124294497d3d7cba37c0"
+    "revision": "26593bf7527800166d414833178e1f38"
   },
   {
     "url": "categories/docker/index.html",
-    "revision": "fce33937e60edeadd1aaafa864338fc1"
+    "revision": "ad4b1c48c0d4bfd3912132d43968c40f"
   },
   {
     "url": "categories/google/index.html",
-    "revision": "00b96741dcf77ec98afc4d013a91535b"
+    "revision": "c81aebf6870b1d962f00f715b8e7bffe"
   },
   {
     "url": "categories/index.html",
-    "revision": "5c67f534f9b8abf81f8d325e7a672461"
+    "revision": "391cf8bd9594ea8f4423de38d96c7a7e"
   },
   {
     "url": "categories/linux/index.html",
-    "revision": "a4efeb17686fd367ba7596ba3e6ebaba"
+    "revision": "7587bd9710c6cdcfaaad7ce78c5f4f35"
   },
   {
     "url": "categories/localization/index.html",
-    "revision": "ab81e1b4379aad04638b4f51f1422917"
+    "revision": "0814e42c0aa11efdfb79e023a18c137b"
   },
   {
     "url": "categories/translations/index.html",
-    "revision": "405c6a9520769120171f7dee78674021"
+    "revision": "53067b2bb7aaaf5eaa623a5de7827ec6"
   },
   {
     "url": "categories/tutorial/index.html",
-    "revision": "b24f4460737f058879e30befd9fe164f"
+    "revision": "48cfd4907f759d4aac308b6861a52342"
   },
   {
     "url": "categories/udacity/index.html",
-    "revision": "9dfa7a0955982fa0990371438633fb60"
+    "revision": "e3c7b2e3ce26585500adaac9b4cfe85a"
   },
   {
     "url": "categories/web/index.html",
-    "revision": "4fa99770c97154367d2d8e1b7974a072"
+    "revision": "063466913e2c3bae90de6c3c8452e298"
   },
   {
     "url": "css/dark-style.css",
@@ -180,47 +180,47 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2890ccbea0d613888962072fed3e9ad9"
+    "revision": "a0e30f103d580aa7c22a07bf52ced264"
   },
   {
     "url": "it/404.html",
-    "revision": "ae17862e2d5254454e0c253fe5fb13a4"
+    "revision": "6ab4688d908682f95c90faf94e8f8f7d"
   },
   {
     "url": "it/categories/index.html",
-    "revision": "bcec281fc9703a652f29ceab33619267"
+    "revision": "60c6308ab9c6bbae05932e51508a1809"
   },
   {
     "url": "it/index.html",
-    "revision": "074d6fb9bfc53ea9bc632c403a0dc576"
+    "revision": "2dfa279d2fb5195788937ae12e09cbd3"
   },
   {
     "url": "it/tags/big-data/index.html",
-    "revision": "63c1f567487f30d2deed27cdd56e58ce"
+    "revision": "ea46616e8fa21ce9077afa3eae744668"
   },
   {
     "url": "it/tags/cloud/index.html",
-    "revision": "54d2363ab2155908e26d06dc81e914d6"
+    "revision": "8e2f1089c775657acafe3299fc8f43dc"
   },
   {
     "url": "it/tags/deep-learning/index.html",
-    "revision": "4442a171db8c9b6ae89644da1b98a0b4"
+    "revision": "1832d08267c14e5019f9032c84304a97"
   },
   {
     "url": "it/tags/index.html",
-    "revision": "766b51a6832f8f855411094534ae6b12"
+    "revision": "213ef157efb65633c55c9f6f3996ccc4"
   },
   {
     "url": "it/tags/internet-of-things/index.html",
-    "revision": "5b740f6e10007b81da00d196da541146"
+    "revision": "ead096aa37d96944de63773c37228f6f"
   },
   {
     "url": "it/tags/iot/index.html",
-    "revision": "9f3634d14b4b3a4a71072bf09cf5bc71"
+    "revision": "3781440544a1b0ee0cdf1938ab4b27f9"
   },
   {
     "url": "it/tags/linux/index.html",
-    "revision": "02c6271b681baaa93201a12352ffb794"
+    "revision": "bc1e91a9ae82704506884c7c4bb72c47"
   },
   {
     "url": "js/moment-timezone-with-data-2012-2022.min.js",
@@ -236,95 +236,95 @@ const fileManifest = [
   },
   {
     "url": "tags/ads/index.html",
-    "revision": "632d5b8064a5290a3df634d4d909a540"
+    "revision": "fae3d11274ab1d2a49f36a81332b98db"
   },
   {
     "url": "tags/big-data/index.html",
-    "revision": "aab1e82dcaee61f3032f9d22f10a2a75"
+    "revision": "2bd00de192e85d5d380ab629e553764f"
   },
   {
     "url": "tags/certification/index.html",
-    "revision": "8fc15ffbb5b3533bec099baa860f7e82"
+    "revision": "f960e57456e380b6db5c9bdbece26b4a"
   },
   {
     "url": "tags/cloud/index.html",
-    "revision": "daf4981fec9b46bc0807112f36b40958"
+    "revision": "688cb1b9fc25a22aab1a827e14feda08"
   },
   {
     "url": "tags/css3/index.html",
-    "revision": "6c97ff5e626bc1ed9a182acfd066c067"
+    "revision": "f57c315ed6474d348e657548cacd2c4b"
   },
   {
     "url": "tags/deep-learning/index.html",
-    "revision": "a3cbe08d61602865d07279e90eebc08f"
+    "revision": "84e38a61cb2b3ac1bf89915d55f2aa92"
   },
   {
     "url": "tags/docker/index.html",
-    "revision": "a4376cdbc125bf877309449ab307d543"
+    "revision": "a9c6b25ea9d6056aee1ea2fbd669e947"
   },
   {
     "url": "tags/doubleclick/index.html",
-    "revision": "403438b51c95732c1b55be45ac4ebe02"
+    "revision": "5ff19192db5c24d772bbd6bfa18bb963"
   },
   {
     "url": "tags/google/index.html",
-    "revision": "77d8c6799648623cbbed1c3ceff66afc"
+    "revision": "7a8d1f33acf66499249f29318abecf76"
   },
   {
     "url": "tags/html5/index.html",
-    "revision": "513537ec70c53136c0c16ccc728355af"
+    "revision": "d42af4d5f19fa95f373cd9ccc83d3155"
   },
   {
     "url": "tags/i18n/index.html",
-    "revision": "58368ae8587731c5d33c48916b24eb7a"
+    "revision": "a349a1cb1a89ad002ddede51ba5e121f"
   },
   {
     "url": "tags/index.html",
-    "revision": "7bad5106180c848098f3510506900e6e"
+    "revision": "ab53a8ec70095174deaacd3206d1944e"
   },
   {
     "url": "tags/internet-of-things/index.html",
-    "revision": "0ae543b4bac5633c4c9d89f9540dde98"
+    "revision": "79ccd365b346102600e45b47fb9dd24b"
   },
   {
     "url": "tags/iot/index.html",
-    "revision": "f2b432a3483399a95ab8d807f9383349"
+    "revision": "16d77085e4bd9a9db42adb2eabcac34d"
   },
   {
     "url": "tags/italian/index.html",
-    "revision": "359e51f2f249f505d23f1d8ab2572304"
+    "revision": "1b8a1a8bf73034404bce73b5255a1c1d"
   },
   {
     "url": "tags/javascript/index.html",
-    "revision": "ab3a963effe036172b94cb69a3bb5d96"
+    "revision": "4f868d84bcb1ea21deef1082d2d54d3b"
   },
   {
     "url": "tags/l10n/index.html",
-    "revision": "023524f9fe76cab96900433b895046a4"
+    "revision": "c0037d63717bc30d7a5ffdbdb69166bb"
   },
   {
     "url": "tags/lfce/index.html",
-    "revision": "a3ec4742ad8891407701296a246c6d87"
+    "revision": "84a6035596063cf452df831f48d8a506"
   },
   {
     "url": "tags/linux/index.html",
-    "revision": "4a1490f6b02c1a4a90f44d2a786d1fe7"
+    "revision": "4872db5d20af294fa93cf72419bd1ae3"
   },
   {
     "url": "tags/nanodegree/index.html",
-    "revision": "859bf1df3ed83ea7220c503ceb8e456c"
+    "revision": "da0ee5f97b93d9fef3085f78640c3290"
   },
   {
     "url": "tags/responsive/index.html",
-    "revision": "67fbbe82f8043c0412e63f3e8efdd69f"
+    "revision": "958677755fb756fdad771e525e7117e2"
   },
   {
     "url": "tags/udacity/index.html",
-    "revision": "8929b81f43e6f1875cc7685a767c8105"
+    "revision": "39fca52d7a815d9c4dff04a4a23e2d81"
   },
   {
     "url": "tags/web/index.html",
-    "revision": "91b3c5d929993186d90e48af291f01b9"
+    "revision": "aed560cbbd25e1e4c1b93aab555bc1e3"
   }
 ];
 

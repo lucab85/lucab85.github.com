@@ -6,7 +6,7 @@
     <description>Recent content in I18n on Luca Berton&#39;s Website, Blog and all the Cool Stuff. Web is my playground!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 16:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2018 10:15:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mrevolution.eu/tags/i18n/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>Google WebFundamentals contributions</title>
       <link>https://mrevolution.eu/blog/google-webfundamentals-contributions/</link>
-      <pubDate>Mon, 01 Jan 2018 16:30:00 +0100</pubDate>
+      <pubDate>Wed, 28 Feb 2018 10:15:00 +0100</pubDate>
       
       <guid>https://mrevolution.eu/blog/google-webfundamentals-contributions/</guid>
       <description>In these few months I&amp;rsquo;ve been contributing to Google WebFundamentals project as contributor and Italian moderator and translator.
 List of approved translations:
- Performance Misurazione performance con il modello RAIL Comprendere la bassa larghezza di banda e la latenza elevata Introduzione a HTTP/2 Il modello PRPL Priorizzare le risorse: fare in modo che il browser ti sia d&amp;rsquo;aiuto Performance di rendering Evita i layout grandi, complessi e schiaccianti Utilizza proprietà del componente di composizione e gestisci il conteggio dei livelli Ridurre i rimbalzi dei gestori di input Semplifica la complessità di Paint e riduci le Aree di Paint Riduci l&amp;rsquo;ambito e la complessità dei calcoli di stile Ottimizza l&amp;rsquo;esecuzione di JavaScript Riproduzione veloce con il precaricamento dei video Coursi Udacity  List of approved proofreading:</description>
+ Performance Misurazione performance con il modello RAIL Comprendere la bassa larghezza di banda e la latenza elevata Introduzione a HTTP/2 Il modello PRPL Priorizzare le risorse: fare in modo che il browser ti sia d&amp;rsquo;aiuto Performance di rendering Evita i layout grandi, complessi e schiaccianti Utilizza proprietà del componente di composizione e gestisci il conteggio dei livelli Ridurre i rimbalzi dei gestori di input Semplifica la complessità di Paint e riduci le Aree di Paint Riduci l&amp;rsquo;ambito e la complessità dei calcoli di stile Ottimizza l&amp;rsquo;esecuzione di JavaScript Riproduzione veloce con il precaricamento dei video Coursi Udacity Stili accessibili  List of approved proofreading:</description>
     </item>
     
     <item>
